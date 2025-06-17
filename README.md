@@ -28,10 +28,10 @@ This is a fun and interactive **Memory Matching Game** built using **HTML, CSS, 
 
 Here are a few in-game screenshots:
 
-<img src="Images/snapshot1.PNG" width="95%" alt="Game Snapshot 1">
-<img src="Images/snapshot2.PNG" width="95%" alt="Game Snapshot 2">
-<img src="Images/snapshot3.PNG" width="95%" alt="Game Snapshot 3">
-<img src="Images/snapshot4.PNG" width="95%" alt="Game Snapshot 4">
+<img src="snapshot1.PNG" width="95%" alt="Game Snapshot 1">
+<img src="snapshot2.PNG" width="95%" alt="Game Snapshot 2">
+<img src="snapshot3.PNG" width="95%" alt="Game Snapshot 3">
+<img src="snapshot4.PNG" width="95%" alt="Game Snapshot 4">
 
 ---
 
